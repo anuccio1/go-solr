@@ -56,3 +56,6 @@ solrClient.Update(locator.GetLeadersAndReplicas("{anydocidtoroute}"),collectionN
 
 ## License
 [The MIT License (MIT)](LICENSE)
+
+
+
